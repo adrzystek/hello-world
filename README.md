@@ -1,2 +1,7 @@
 # hello-world
-just a hello world repo
+
+Hi,
+
+I'm Andrzej and I like computers.
+
+See you.
